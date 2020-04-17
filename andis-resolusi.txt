@@ -1,0 +1,4 @@
+ANDIS-RESOLUSI
+- konsisten membuat ini untuk semua 
+- membuat platform untuk pengelolaan video
+- Membuat forum diskusi
