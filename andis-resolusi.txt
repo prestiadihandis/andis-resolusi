@@ -2,3 +2,5 @@ ANDIS-RESOLUSI
 - konsisten membuat ini untuk semua 
 - membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+- Membuat mrech shop
+- Kolaborasi dengan lebih banyak expert
